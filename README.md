@@ -1,2 +1,12 @@
-# SSL_Cosentino_Matias
-Este es mi repositorio para la cursada de Sintaxis y Semántica de Lenguajes.
+# SSL
+## Sintaxis y Semántica de los Lenguajes
+
+**Curso:** K2052
+
+**Año de cursada:** 2022
+
+**Legajo:** 1410271
+
+**Apellido:** Cosentino
+
+**Nombre:** Matias
